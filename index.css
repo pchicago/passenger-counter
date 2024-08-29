@@ -1,9 +1,9 @@
 body {
-    background-image: url("./images/station.jpg");
-    background-size: cover;
+   /* background-image: url("./images/station.jpg"); */
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     text-align: center;
+    background-color: skyblue;
 }
 
 h1 {
